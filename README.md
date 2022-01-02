@@ -4,9 +4,11 @@
 
 ## 食用
 
-默认口味: https://maicong.github.io/laji/index.html
+默认口味: [https://github.aiyc.top/laji/](https://github.aiyc.top/laji/)
 
 更换口味: https://maicong.github.io/laji/index.html?n=233&t=100&b=https%3A%2F%2Ftb2.bdstatic.com%2Ftb%2Feditor%2Fimages%2Fface%2Fi_f28.png
+
+[https://github.aiyc.top/laji/index.html](https://github.aiyc.top/laji/index.html)
 
 ## 参数
 
